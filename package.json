@@ -1,0 +1,26 @@
+{
+  "name": "lesson3",
+  "version": "1.0.0",
+  "description": "Thursday npm example",
+  "main": "currency.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "nodemon server.js"
+  },
+  "keywords": [
+    "keywords",
+    "for",
+    "npm",
+    "searches",
+    "for",
+    "other",
+    "developers",
+    "here"
+  ],
+  "author": "Rich",
+  "license": "ISC",
+  "dependencies": {
+    "accounting": "^0.4.1",
+    "connect": "^3.5.0"
+  }
+}
